@@ -11,6 +11,8 @@ def div(num1, num2):
     return num1/num2
 
 print(add(3, 2))
+print(sub(9, 8))
+print(mul(4, 8))
 <<<<<<< HEAD
 
 =======
